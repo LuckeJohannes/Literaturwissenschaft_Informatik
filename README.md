@@ -1,4 +1,4 @@
-Downloads zum Band
+Download zum Band
 
 Ergänzend zu dem Band Literaturwissenschaft und Informatik, 
 Hg. v. Alexa Lucke, Hermann Johannes im April 2024, 
