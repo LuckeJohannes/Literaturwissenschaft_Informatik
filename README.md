@@ -5,3 +5,5 @@ Hg. v. Alexa Lucke, Hermann Johannes im April 2024,
 werden Beispieldaten auf dem Download Server GitHub
 URL: https://github.com/LuckeJohannes/Literaturwissenschaft_Informatik
 für interessierte Leser:innen zur Verfügung gestellt.
+02.06.2026: Weitere Analysen zu Frauenliteratur um 1900
+sind in https://github.com/alexalucke eingestellt
